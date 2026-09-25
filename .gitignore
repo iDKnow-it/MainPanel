@@ -24,3 +24,12 @@ Content/Developers/
 
 # 主菜单 BGM:大体积且非本人创作,不推(自行替换)
 Content/BGM/Main.uasset
+
+# ===== 编辑器 / 系统杂项 =====
+UpgradeLog*.htm
+UpgradeLog*.xml
+*.tlog
+*.user
+*.suo
+Thumbs.db
+desktop.ini
